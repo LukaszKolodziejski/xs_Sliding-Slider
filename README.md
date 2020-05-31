@@ -1,1 +1,1 @@
-> ## Tiny project XXS // webpack + SASS + JS
+> ## Tiny project XS // webpack + SASS + JS
